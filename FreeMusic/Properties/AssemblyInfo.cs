@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FreeMusic")]
-[assembly: AssemblyDescription("Playing any music files in GTA V (By Hadi Akbarzadeh)")]
+[assembly: AssemblyDescription("Playing any music files in GTA V (By ELATEL.IR)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("FuLLKade.COM")]
+[assembly: AssemblyCompany("ELATEL.IR")]
 [assembly: AssemblyProduct("FreeMusic")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,6 +33,6 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.5.0.0")]
-[assembly: AssemblyFileVersion("1.5.0.0")]
+[assembly: AssemblyVersion("1.6.0.0")]
+[assembly: AssemblyFileVersion("1.6.0.0")]
 [assembly: NeutralResourcesLanguage("fa-IR")]

@@ -32,8 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NativeUI">
-      <HintPath>G:\Programing\LibraryFile\DLL\N\NativeUI\NativeUI.dll</HintPath>
+    <Reference Include="NativeUI, Version=1.9.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\dev\sdk\dll\NativeUI\NativeUI.dll</HintPath>
     </Reference>
     <Reference Include="NAudio, Version=1.10.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\NAudio.1.10.0\lib\net35\NAudio.dll</HintPath>
@@ -54,12 +55,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FreeMusic\Config.cs" />
-    <Compile Include="FreeMusic\FreeMusicPlayer.Musics.cs" />
-    <Compile Include="FreeMusic\FreeMusicPlayer.KeyDown.cs" />
-    <Compile Include="FreeMusic\FreeMusicPlayer.Settings.cs" />
-    <Compile Include="FreeMusic\FreeMusicPlayer.Tick.cs" />
-    <Compile Include="FreeMusic\FreeMusicPlayer.UI.cs" />
-    <Compile Include="FreeMusic\FreeMusicPlayer.Controls.cs" />
+    <Compile Include="FreeMusic\FreeMusicPlayer_Musics.cs" />
+    <Compile Include="FreeMusic\FreeMusicPlayer_Keyboard.cs" />
+    <Compile Include="FreeMusic\FreeMusicPlayer_Settings.cs" />
+    <Compile Include="FreeMusic\FreeMusicPlayer_Tick.cs" />
+    <Compile Include="FreeMusic\FreeMusicPlayer_UI.cs" />
+    <Compile Include="FreeMusic\FreeMusicPlayer_Controls.cs" />
     <Compile Include="FreeMusic\FreeMusicPlayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
