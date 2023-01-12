@@ -19,14 +19,14 @@ Notice: FreeMusic load all music files from all subdirectories.
 *F11: Menu*
 
 ## Hotkeys:
-- Ctrl + C: Reload music list (When your game is running and you have added new files to the Musics path.)
-- Top Plus button (+): Increase volume
-- Top Mines button (-): Decrease volume
-- Right Arrow: Play next music
-- Left Arrow: Play previous music
-- Ctrl + Top Plus button: Forwarding music position
-- Ctrl + Top Mines button: Backwarding music position
-- Ctrl + S: Stop Music
+- Ctrl + C : Reload music list (When your game is running and you have added new files to the Musics path.)
+- Top Plus button (+) : Increase volume
+- Top Mines button (-) : Decrease volume
+- Right Arrow : Play next music
+- Left Arrow : Play previous music
+- Ctrl + Top Plus button : Forwarding music position
+- Ctrl + Top Mines button : Backwarding music position
+- Ctrl + S : Stop Music
 
 Key codes: https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.keys
 
