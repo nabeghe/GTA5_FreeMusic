@@ -31,9 +31,9 @@ Notice: FreeMusic load all music files from all subdirectories.
 Key codes: https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.keys
 
 ## Changes Log
-*v1.6:*
+*v1.6.1:*
 - Added 'VOLUME_STEP' to the config.
-- Changed menu key to F11 (F12 used for screenshot in the Steam)
+- Changed menu key to F11 by default 1 (F12 used for screenshot in the Steam)
 - Fixed 'JUMP_STEP' name in the config.
 - Code cleanup.
 
