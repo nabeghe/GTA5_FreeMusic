@@ -7,7 +7,7 @@ namespace FuLLKade.FreeMusic
     /// </summary>
     public class Config
     {
-        public const string VERSION = "1.6";
+        public const string VERSION = "1.6.1";
         public const string SIGNATURE = "ELATEL.IR";
 
         public const Keys KEY_MENU = Keys.F11;
